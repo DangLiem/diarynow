@@ -1,0 +1,2 @@
+# diarynow
+diary note
